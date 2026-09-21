@@ -34,3 +34,24 @@ nav a {
 nav a:hover {
     color: #00ff88;
 }
+.product-card {
+    background-color: #111;
+    border: 1px solid #00ff88;
+    border-radius: 15px;
+    padding: 25px;
+    width: 250px;
+    margin: 30px auto;
+}
+
+.product-card h3 {
+    color: #00ff88;
+}
+
+.product-card button {
+    background-color: #00ff88;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-weight: bold;
+}
