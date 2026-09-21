@@ -55,3 +55,7 @@ nav a:hover {
     border-radius: 20px;
     font-weight: bold;
 }
+ .product-card img {
+    width: 100%;
+    border-radius: 10px;
+}
