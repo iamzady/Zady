@@ -2,9 +2,19 @@ body {
     background-color: black;
     color: white;
     text-align: center;
-}
 
-h1 {
+
+h1 
     color: #00ff88;
     font-size: 50px;
+.shop-btn {
+    display: inline-block;
+    background-color: #00ff88;
+    color: black;
+    padding: 14px 30px;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 30px;
+    margin-top: 20px;
 }
